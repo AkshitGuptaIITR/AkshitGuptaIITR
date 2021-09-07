@@ -1,1 +1,1 @@
-<img src="./AkshitGupta.gif" width="100%"/>
+<img src="./AkshitGupta.gif" width="80%"/>
